@@ -4,18 +4,6 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![MySQL Version](https://img.shields.io/badge/mysql-8.0%2B-orange)](https://www.mysql.com/)
 
-## 📌 Tabela de Conteúdo
-- [Objetivos](#-objetivos)
-- [Stack Tecnológica](#-stack-tecnológica)
-- [Principais Descobertas](#%EF%B8%8F-principais-descobertas)
-- [Instalação](#-instalação)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Fluxo de Análise](#%EF%B8%8F-fluxo-de-análise)
-- [Visualizações Chave](#-visualizações-chave)
-- [Como Contribuir](#-como-contribuir)
-- [Licença](#-licença)
-- [Contato](#-contato)
-
 ## 🎯 Objetivos
 1. Identificar padrões de compra geográficos
 2. Analisar impacto do frete nas vendas
